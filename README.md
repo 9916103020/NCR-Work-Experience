@@ -5,7 +5,7 @@ This repo tells about all my projects and hackathons which I worked in NCR as So
 I am just providing a list here just for references with link to that Project/Hackathon/Sessions :
 
 ## HACKATHONS
-#### 1. [SMARTCART (HACKATHON - 2021)]()
+#### 1. [SMARTCART (HACKATHON - 2021)](https://github.com/9916103020/SMARTCART)
 
 #### 2. [STORELOGIN USING FACEID (HACKATHON - 2022)]()
 
