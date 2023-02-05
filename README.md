@@ -18,7 +18,7 @@ I am just providing a list here just for references with link to that Project/Ha
 #### 1. [Machine LEARNING](https://github.com/9916103020/Machine-Learning)
 #### 2. [PERFORMANCE ANALYSIS TOOL (PAT)](https://github.com/9916103020/Performance-Analysis-Tool-PAT-)
 #### 3. [PROXY SERVERS](https://github.com/9916103020/PROXY-SERVERS)
-#### 4. [Know Your Customer (KYC): Dollarama]()
+#### 4. [Know Your Customer (KYC): Dollarama](https://github.com/9916103020/Know-Your-Customer-KYC-Dollarama)
 #### 5. [DataImporter]()
 #### 6. [Health Tip]()
 
