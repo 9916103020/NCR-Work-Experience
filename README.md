@@ -15,12 +15,12 @@ I am just providing a list here just for references with link to that Project/Ha
 
 
 ## SESSIONS & TALKS 
-#### 1. [Machine LEARNING](https://github.com/9916103020/Machine-Learning)
-#### 2. [PERFORMANCE ANALYSIS TOOL (PAT)](https://github.com/9916103020/Performance-Analysis-Tool-PAT-)
-#### 3. [PROXY SERVERS](https://github.com/9916103020/PROXY-SERVERS)
-#### 4. [Know Your Customer (KYC): Dollarama](https://github.com/9916103020/Know-Your-Customer-KYC-Dollarama)
-#### 5. [DataImporter]()
-#### 6. [Health Tip](https://github.com/9916103020/Health-Tips)
+#### 1. [Machine LEARNING (JUL - 2021)](https://github.com/9916103020/Machine-Learning)
+#### 2. [PERFORMANCE ANALYSIS TOOL (PAT) (NOV - 2022)](https://github.com/9916103020/Performance-Analysis-Tool-PAT-)
+#### 3. [PROXY SERVERS (NOV - 2022)](https://github.com/9916103020/PROXY-SERVERS)
+#### 4. [Know Your Customer (KYC): Dollarama (APR - 2021)](https://github.com/9916103020/Know-Your-Customer-KYC-Dollarama)
+#### 5. [DataImporter (JUL - 2022)]()
+#### 6. [Health Tip (FEB - 2022)](https://github.com/9916103020/Health-Tips)
 
 
 ## PROJECTS
