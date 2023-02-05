@@ -15,7 +15,7 @@ I am just providing a list here just for references with link to that Project/Ha
 
 
 ## SESSIONS & TALKS 
-#### 1. [Machine LEARNING]()
+#### 1. [Machine LEARNING](https://github.com/9916103020/Machine-Learning)
 #### 2. [PERFORMANCE ANALYSIS TOOL (PAT)]()
 #### 3. [PROXY SERVERS]()
 #### 4. [Know Your Customer (KYC): Dollarama]()
