@@ -33,7 +33,7 @@ I am just providing a list here just for references with link to that Project/Ha
 #### 4. RFID POC (JUN - 2022)
    
 
-#### 5. [AUTO PLU (JUL - 2022)]()
+#### 5. [AUTO PLU (JUL - 2022)](https://github.com/9916103020/AUTO-PLU-JUL-2022-)
 
 #### 6. [R6C CASH MANAGEMENT (BASE WORKING) (AUG - 2022)]()
 
