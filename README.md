@@ -13,6 +13,8 @@ I am just providing a list here just for references with link to that Project/Ha
 ## INTERNAL TOOL
 #### 1. [PERFORMANCE ANALYSIS TOOL (AUG - 2020)]()
 
+## Professional Service Artificial Intelligence Challenge (Global)
+#### 1. [DeepNLPAnalyzerX (DNAX)](https://github.com/9916103020/DNAX-DeepNLPAnalyzerX-)
 
 ## SESSIONS & TALKS 
 #### 1. [Machine LEARNING (JUL - 2021)](https://github.com/9916103020/Machine-Learning)
